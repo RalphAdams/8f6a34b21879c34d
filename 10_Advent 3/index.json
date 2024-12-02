@@ -5,7 +5,7 @@
         "jcampURL": "./13cdec.jdx"
       },
       "display": {
-        "name": ""
+        "name": "13C"
       }
     },
     {
@@ -13,16 +13,15 @@
         "jcampURL": "./1h.jdx"
       },
       "display": {
-        "name": ""
-      },
-      "selected": true
+        "name": "1H"
+      }
     },
     {
       "source": {
         "jcampURL": "./cosy.jdx"
       },
       "display": {
-        "name": ""
+        "name": "COSY"
       }
     },
     {
@@ -30,7 +29,7 @@
         "jcampURL": "./hmbc.jdx"
       },
       "display": {
-        "name": ""
+        "name": "HMBC"
       }
     },
     {
@@ -38,7 +37,7 @@
         "jcampURL": "./hsqc.jdx"
       },
       "display": {
-        "name": ""
+        "name": "HSQC"
       }
     }
   ]
